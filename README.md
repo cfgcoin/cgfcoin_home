@@ -1,2 +1,2 @@
-# cgfcoin_home
-secondpage
+# cgfcoin--- templated by knights
+
